@@ -1,0 +1,25 @@
+/* selector de etiquetas*/
+h1{
+    color: blue;
+
+
+}
+h2 {
+    color: red;
+}
+
+header p {
+    color: green;
+}
+
+/* selector de clase */
+
+.content {
+    color: violet;
+}
+
+/* selector de id */
+
+#tittle2 {
+    color: yellow;
+}
